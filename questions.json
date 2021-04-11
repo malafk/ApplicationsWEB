@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": "age",
+      "questiontxt": "what is your age?",
+      "required": "true"
+    },
+    {
+      "id": "username",
+      "questiontxt": "what is your ingame name?",
+      "required": "true"
+    },
+    {
+      "id": "timezone",
+      "questiontxt": "what is your timezone",
+      "required": "true"
+    },
+    {
+      "id": "times",
+      "questiontxt": "when can you be on the server",
+      "required": "true"
+    },
+    {
+      "id": "why",
+      "questiontxt": "why do you want to become a staff member?",
+      "required": "true"
+    },
+    {
+      "id": "experience",
+      "questiontxt": "what past experience do you have in moderation",
+      "required": "true"
+    }
+  ]
+}
